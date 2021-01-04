@@ -46,7 +46,7 @@ _a_
 6. _./filename
 
 **Commands for Asembler**
-1. _gcc -0 filename_
+1. _gcc -o filename_
 2. _./filename_
 
 ---
