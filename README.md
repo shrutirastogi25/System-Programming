@@ -21,7 +21,7 @@ _a_
 1. Write a YACC program to find the validity of a given expression (for operatiors +-* and /).
 2. Write a YACC program which recognizes a valid variable which starts with letter followed by a digit. The letter should be in lowercase only.
 3. Write a YACC Program to evaluate an expression (simple Calculator program for addition, subtraction, multiplication and division).
-4. Write a YACC program to recognize the string "abbb","ab","a" of the language (a^nb^n,n>=1).
+4. Write a YACC program to recognize the string "abbb","abb","ab" of the language (ab^n,n>=1).
 
 ---
 
